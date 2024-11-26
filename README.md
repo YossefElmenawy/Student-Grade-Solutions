@@ -1,8 +1,5 @@
 # Student-Grade-Solutions
 
-## Overview
-This repository contains solutions for three tasks written in Python. Below, you will find explanations for each task along with the link to a video demonstration.
-
 ---
 
 ## Tasks and Explanations
